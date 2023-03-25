@@ -2,7 +2,7 @@ import java.util.Scanner;
 import java.io.FileWriter;
 import java.io.IOException;
 
-/* The class cannot be used to create objects (To access an abstract class,
+/* The class cannot be used to create objects. To access an abstract class,
 it must be inherited from another class. */
 /* Can only be used in an abstract class, and can only be used on methods. 
 The method does not have a body, for example abstract void run();. 
@@ -26,6 +26,9 @@ abstract class ID_issuing_project {
 class Person extends ID_issuing_project {
 
     public Person(String in, String cs, String fn, String mn, String ln, String yr, String hc, String ec, String sx, String ht, String iy, String ey) {
+        set(in,cs,fn,mn,ln,yr,hc,ec,sx,ht, iy,ey);
+    }
+    public void set(String in, String cs, String fn, String mn, String ln, String yr, String hc, String ec, String sx, String ht, String iy, String ey) {
         idNum = in;
         Class = cs;
         fname = fn;
@@ -44,7 +47,7 @@ class Person extends ID_issuing_project {
             FileWriter file = new FileWriter("ID_info.txt");
             file.write("#####################################################\n");
             System.out.println("#####################################################");
-            if (Class == "C" || Class == "C/M") {
+            if (Class.equals("C") || Class.equals("C/M")) {
                 file.write("## DRIVER LICENSE:\n");
                 System.out.println("## DRIVER LICENSE:");
             }
@@ -83,9 +86,9 @@ class Person extends ID_issuing_project {
 }
 
 class Main extends Person {
-    
-     public Main(String in, String cs, String fn, String mn, String ln, String yr, String hc, String ec,
-            String sx, String ht, String iy, String ey) {
+
+    public Main(String in, String cs, String fn, String mn, String ln, String yr, String hc, String ec,
+                String sx, String ht, String iy, String ey) {
         super(in, cs, fn, mn, ln, yr, hc, ec, sx, ht, iy, ey);
     }
 
@@ -97,43 +100,43 @@ class Main extends Person {
         int idn =(int)(Math.random()*(999999999 - 100000000 + 1) + 100000000);
         String idnum = String.valueOf(idn);
         Scanner scan = new Scanner(System.in);
-        System.out.println("Enter your first name: ");
+        System.out.print("Enter your first name: ");
         String fname = scan.nextLine();
-        
-        System.out.println("Enter your middle name/initial: ");
+
+        System.out.print("Enter your middle name/initial: ");
         String mname = scan.nextLine();
-        
-        System.out.println("Enter your last name: ");
+
+        System.out.print("Enter your last name: ");
         String lname = scan.nextLine();
-        
-        System.out.println("Enter month of your birthdate (MM/DD): ");
+
+        System.out.print("Enter month of your birthdate (MM/DD): ");
         String bdatemd = scan.nextLine();
-        
-        System.out.println("Enter year of your birthdate (YYYY): ");
+
+        System.out.print("Enter year of your birthdate (YYYY): ");
         String bdatey = scan.nextLine();
-        
+
         String bdate = bdatemd + "/" + bdatey;
-        
-        System.out.println("Enter color of your hair: ");
+
+        System.out.print("Enter color of your hair: ");
         String hcolor = scan.nextLine();
-        
-        System.out.println("Enter color of your eyes: ");
+
+        System.out.print("Enter color of your eyes: ");
         String ecolor = scan.nextLine();
-        
-        System.out.println("Enter your gender (M/F): ");
+
+        System.out.print("Enter your gender (M/F): ");
         String gender = scan.nextLine();
-        
-        System.out.println("Enter your height (example, 5'-08\"): ");
+
+        System.out.print("Enter your height (example, 5'-08\"): ");
         String height = scan.nextLine();
-        
-        System.out.println("Enter today's date (MM/DD): ");
+
+        System.out.print("Enter today's date (MM/DD): ");
         String tdatemd = scan.nextLine();
-        System.out.println("Enter year (YYYY): ");
+        System.out.print("Enter year (YYYY): ");
         String tyear = scan.nextLine();
 
         String tdate = tdatemd + "/" + tyear;
-        int eyear = Integer.valueOf(tyear) + 10;
-        String edate = bdatemd + "/" + String.valueOf(eyear); 
+        int eyear = Integer.parseInt(tyear) + 10;
+        String edate = bdatemd + "/" + eyear;
 
         System.out.println("Do you want ID or Driver's license? (ID/DL): ");
         String idclass = scan.nextLine();
@@ -148,10 +151,10 @@ class Main extends Person {
                 idclass = "C";
             }
         }
-        
+
         scan.close();
         // create an object of the Person class (which inherits attributes and methods from ID)
-        Person id = new Person(idnum, idclass, fname, mname, lname, bdate, hcolor, ecolor, gender, height, tdate, edate); 
+        Person id = new Person(idnum, idclass, fname, mname, lname, bdate, hcolor, ecolor, gender, height, tdate, edate);
         id.displayInfo();
     }
 }
