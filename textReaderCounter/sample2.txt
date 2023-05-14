@@ -1,0 +1,369 @@
+##### IT COURSE NOTES  #####
+
+##  Lecture 1.1  ##
+
+# Laptop storage:
+
+# SSD (Solid-state drive):
+- All memory, no moving parts.
+- Silent, fast access time, less latency.
+- 2.5 inch and 1.8 inch form factors.
+
+# SSHD ( Solid-state Hybrid drive):
+- Flash memory and hard drive storage.
+- SSD caches the hard drive data.
+
+# Replacing laptop storage:
+
+# All internal:
+- Open a cover on the back.
+- Open the entire laptop
+
+# Can be very modular:
+- Two screws and the drive slides out.
+
+# Laptop memory: 
+- SO-DIMM (Small Outline Dual In-line Memory Module).
+- Micro-DIMM (Micro-Dual In-line Memory Module).
+- Memory used in laptops and mobile devices.
+
+# Smart card reader:
+
+# Integrated card reader:
+- Built into the laptop.
+
+# External reader:
+- USB connected.
+
+# Optical drive:
+
+# Too large for today's portable devices:
+- Becoming difficult to find.
+
+# Often removable:
+- Replace with other media.
+
+# Read and write CD-RW/CD-ROM and DVD-RW/DVD-ROM:
+- In a portable device.
+
+# Video card:
+
+# Often built into the processor:
+- Not upgradable.
+
+# Sometimes part of the system board:
+- Again, not upgradable.
+
+# Some laptops have upgradable video cards:
+- Not the slimline models.
+
+# Screen:
+
+# LCD (Light Crystal Display):
+- Light and high-resolution.
+
+# Very, very fragile:
+- Get a good case!
+
+# Resolutions are fixed:
+- Changes to native resolution may look blurry or not as crisp.
+
+# Laptop power - AC adapters:
+
+# Auto-switching or fixed input:
+- Converts AC to DC.
+- Input voltage: (110-220)volts.
+
+# DC jack on the laptop:
+- Specific to the power supply type.
+- Round yellow connector on the back of the laptop.
+
+# Laptop power - batteries:
+
+# Lithium Ion (Li-ion):
+- Common in consumer electronics.
+- No "memory effect".
+- Charging the battery diminishes capacity.
+
+# Different form factor for each laptop.
+
+# Laptop frame:
+
+# Plastic:
+- Lightweight, mobile.
+- Durable, difficult to break.
+- Inexpensive, cost-effective.
+
+# Metal:
+- More durable than plastic.
+- Can be more difficult to repair.
+
+# Speaker:
+
+# Self-contained:
+- Portable audio.
+
+# Not the highest quality:
+- very small.
+
+# Often stereo (L/R):
+- May include a "subwoofer!".
+
+# System board:
+
+# Proprietary:
+- Built to fit.
+
+# Replacement isn't easy:
+- Swap the entire board.
+- Most components are on the system board.
+
+# CPU:
+
+# Designed for mobility:
+- Power management.
+
+# Integrated features:
+- Memory controller, Video controller.
+
+# Not very upgradable:
+- Replaceable, but not upgradable.
+
+# Often slower than desktops:
+- Size and heat are disadvantages.
+
+
+##  Lecture 1.2  ##
+
+
+# Laptop displays:
+
+# Liquid Crystal Display (LCD):
+
+# Liquid crystal display:
+- Light shines through liquid crystals.
+
+# Advantages:
+- Lightweight.
+- Relatively low power.
+- Relatively inexpensive.
+
+# Distadvantages:
+- Black levels are a challenge.
+- Requires separate backlight:
+- Florescent, LED, etc.
+- Difficult to replace.
+
+# Organic Light Emitting Diode (OLED):
+
+# Organic light emitting diode:
+- Organic compound emits light when receiving an electric current.
+
+# Thinner and lighter:
+- Flexible and mobile - no glass needed.
+
+# No backlight:
+- the organic compound provides the light.
+
+# Not quite ready for laptops:
+- Organic materials degrade over time.
+- Decayed images can remain on the screen.
+- More costly and power hungry than LCD.
+
+# Wifi antennas:
+
+# Multiple antennas:
+- Wifi main and aux.
+- Bluetooth.
+
+# Antenna wires wrap around the laptop screen:
+- It is up high.
+
+# Laptop webcam:
+
+# Video capture:
+- Built-in camera and microphone.
+
+# Usually includes both audio and video:
+- Specialized drivers and software.
+
+# Microphone:
+
+# Built-in to the laptop:
+- Useful for video calls.
+
+# Not good for non casual use:
+- Analog or USB microphones can help.
+
+# Fluorescent vs. LEF backlighting:
+
+# LEF-backlit LCD display:
+- Backlight is LEDs instead of florescent.
+- LEDs around the edge of the screen.
+- An array of LEDs behind the screen.
+- The latest laptops are LED-backlit.
+
+# CCFL - Cold Cathode Florescent Lamp:
+- Higher voltage and power needed.
+- Added thickness to the display.
+- No longer a common backlight.
+- Older laptops will use these.
+
+# Backlight and inverter:
+
+# LCD displays need a backlight:
+- Florescent lamp/LED to LCD display to your eyes.
+
+# Some laptops have inverters:
+- Convert DC into AC.
+
+# Verify backlight:
+- Look closely.
+- Use a flashlight.
+
+# May need to replace the LCD inverter or display:
+- Choose carefully.
+
+# Digitizer:
+
+# Use a pen-like device as input:
+- Stylus input.
+- Useful for graphical input.
+
+# Becoming more common on laptops/tablets:
+- Or hybrid devices.
+
+# Touchscreen:
+
+# Merge laptop and tablet input:
+- No keyboard required.
+- But often still available.
+
+# Many options for input:
+- Use the best one for the job.
+
+
+##  Lecture 1.3  ##
+
+
+# Laptop features:
+
+# Dual displays:
+
+# Toggle Fn (Function) keys:
+- Secondary functions.
+- Toggle between LCD/external monitor/both.
+
+# LCD switch:
+- The "refrigerator door" effect.
+- Physical switch on older systems.
+- Internal magnetic switch on newer portable systems.
+- Set functionality in the BIOS or utility.
+
+# Wireless control:
+
+# Control your wireless signal:
+- Airplane mode, secure areas.
+- Look for a status light.
+
+# Physical switch
+
+# Function key
+
+# May include 802.11, Bluetooth, and cellular:
+- Look for the symbol or status light.
+
+# Volume settings:
+
+# Another function key:
+- May be standalone key.
+- Often includes a mute option.
+
+# Physical dial or button:
+- May see visual feedback.
+
+# Screen brightness:
+
+# Control the backlight:
+- Secondary function keys.
+
+# More light, more power:
+- conserve your battery.
+
+# Keyboard backlight:
+
+# An option on many laptops:
+- See in the dark.
+
+# Secondary function control:
+- Intensity.
+- Duration.
+- Disable.
+
+# Touch pad:
+
+# Enable and disable:
+- Avoid inadvertent mouse clicks and movements.
+
+# Screen orientation:
+
+# Rotate the screen:
+- Useful on rotating tablet/ laptops.
+- Landscape to portrait.
+
+# Fn key or hotkey:
+- Different across manufacturers.
+
+# Media options:
+
+# Control audio and video from your keyboard:
+- No mouse clicking.
+# Play, stop, rewind, fast forward:
+- Mute, volume.
+
+# GPS:
+
+# Listen for GPS singals:
+- Disable the radio.
+
+# May also be associated with airplane mode or other wireless settings
+
+# Docking stations:
+
+# Docking station:
+- Use external keyboard and mouse.
+- Extend existing laptop interfaces.
+- Add additional functionality.
+- Desktop adapter cards.
+- Avoid cable issues.
+
+# Port replicator:
+- Similar to a docking station.
+- Does not have an expansion card option.
+
+# Physical laptop locks:
+# Keep your laptop form walking away:
+- The bad guys are good at this.
+# Laptops include metal-reinforced locking slots:
+- Connect to the lock.
+# Connect to a solid object:
+- Nothing moves.
+# Rotating/removable screens:
+# Combine a laptop keyboatd with a tablet screen
+# Presentation display
+# May include a stylus for input
+
+<>?;=@9[\]^_{}|~+$%&*`
+
+
+
+
+
+
+
+
+
+
+
+
+

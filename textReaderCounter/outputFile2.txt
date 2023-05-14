@@ -1,0 +1,223 @@
++---------------------------------------------------------+
+| [Name]           Text Reader & Counter        Version 1 |
+|                                                         |
++---------------------------------------------------------+
+|                          Text                           |
++---------------------------------------------------------+
+| ##### IT COURSE NOTES  #######  Lecture 1.1  ### Laptop |
+|  storage:# SSD (Solid-state drive):- All memory, no mov |
+| ing parts.- Silent, fast access time, less latency.- 2. |
+| 5 inch and 1.8 inch form factors.# SSHD ( Solid-state H |
+| ybrid drive):- Flash memory and hard drive storage.- SS |
+| D caches the hard drive data.# Replacing laptop storage |
+| :# All internal:- Open a cover on the back.- Open the e |
+| ntire laptop# Can be very modular:- Two screws and the  |
+| drive slides out.# Laptop memory: - SO-DIMM (Small Outl |
+| ine Dual In-line Memory Module).- Micro-DIMM (Micro-Dua |
+| l In-line Memory Module).- Memory used in laptops and m |
+| obile devices.# Smart card reader:# Integrated card rea |
+| der:- Built into the laptop.# External reader:- USB con |
+| nected.# Optical drive:# Too large for today's portable |
+|  devices:- Becoming difficult to find.# Often removable |
+| :- Replace with other media.# Read and write CD-RW/CD-R |
+| OM and DVD-RW/DVD-ROM:- In a portable device.# Video ca |
+| rd:# Often built into the processor:- Not upgradable.#  |
+| Sometimes part of the system board:- Again, not upgrada |
+| ble.# Some laptops have upgradable video cards:- Not th |
+| e slimline models.# Screen:# LCD (Light Crystal Display |
+| ):- Light and high-resolution.# Very, very fragile:- Ge |
+| t a good case!# Resolutions are fixed:- Changes to nati |
+| ve resolution may look blurry or not as crisp.# Laptop  |
+| power - AC adapters:# Auto-switching or fixed input:- C |
+| onverts AC to DC.- Input voltage: (110-220)volts.# DC j |
+| ack on the laptop:- Specific to the power supply type.- |
+|  Round yellow connector on the back of the laptop.# Lap |
+| top power - batteries:# Lithium Ion (Li-ion):- Common i |
+| n consumer electronics.- No "memory effect".- Charging  |
+| the battery diminishes capacity.# Different form factor |
+|  for each laptop.# Laptop frame:# Plastic:- Lightweight |
+| , mobile.- Durable, difficult to break.- Inexpensive, c |
+| ost-effective.# Metal:- More durable than plastic.- Can |
+|  be more difficult to repair.# Speaker:# Self-contained |
+| :- Portable audio.# Not the highest quality:- very smal |
+| l.# Often stereo (L/R):- May include a "subwoofer!".# S |
+| ystem board:# Proprietary:- Built to fit.# Replacement  |
+| isn't easy:- Swap the entire board.- Most components ar |
+| e on the system board.# CPU:# Designed for mobility:- P |
+| ower management.# Integrated features:- Memory controll |
+| er, Video controller.# Not very upgradable:- Replaceabl |
+| e, but not upgradable.# Often slower than desktops:- Si |
+| ze and heat are disadvantages.##  Lecture 1.2  ### Lapt |
+| op displays:# Liquid Crystal Display (LCD):# Liquid cry |
+| stal display:- Light shines through liquid crystals.# A |
+| dvantages:- Lightweight.- Relatively low power.- Relati |
+| vely inexpensive.# Distadvantages:- Black levels are a  |
+| challenge.- Requires separate backlight:- Florescent, L |
+| ED, etc.- Difficult to replace.# Organic Light Emitting |
+|  Diode (OLED):# Organic light emitting diode:- Organic  |
+| compound emits light when receiving an electric current |
+| .# Thinner and lighter:- Flexible and mobile - no glass |
+|  needed.# No backlight:- the organic compound provides  |
+| the light.# Not quite ready for laptops:- Organic mater |
+| ials degrade over time.- Decayed images can remain on t |
+| he screen.- More costly and power hungry than LCD.# Wif |
+| i antennas:# Multiple antennas:- Wifi main and aux.- Bl |
+| uetooth.# Antenna wires wrap around the laptop screen:- |
+|  It is up high.# Laptop webcam:# Video capture:- Built- |
+| in camera and microphone.# Usually includes both audio  |
+| and video:- Specialized drivers and software.# Micropho |
+| ne:# Built-in to the laptop:- Useful for video calls.#  |
+| Not good for non casual use:- Analog or USB microphones |
+|  can help.# Fluorescent vs. LEF backlighting:# LEF-back |
+| lit LCD display:- Backlight is LEDs instead of floresce |
+| nt.- LEDs around the edge of the screen.- An array of L |
+| EDs behind the screen.- The latest laptops are LED-back |
+| lit.# CCFL - Cold Cathode Florescent Lamp:- Higher volt |
+| age and power needed.- Added thickness to the display.- |
+|  No longer a common backlight.- Older laptops will use  |
+| these.# Backlight and inverter:# LCD displays need a ba |
+| cklight:- Florescent lamp/LED to LCD display to your ey |
+| es.# Some laptops have inverters:- Convert DC into AC.# |
+|  Verify backlight:- Look closely.- Use a flashlight.# M |
+| ay need to replace the LCD inverter or display:- Choose |
+|  carefully.# Digitizer:# Use a pen-like device as input |
+| :- Stylus input.- Useful for graphical input.# Becoming |
+|  more common on laptops/tablets:- Or hybrid devices.# T |
+| ouchscreen:# Merge laptop and tablet input:- No keyboar |
+| d required.- But often still available.# Many options f |
+| or input:- Use the best one for the job.##  Lecture 1.3 |
+|   ### Laptop features:# Dual displays:# Toggle Fn (Func |
+| tion) keys:- Secondary functions.- Toggle between LCD/e |
+| xternal monitor/both.# LCD switch:- The "refrigerator d |
+| oor" effect.- Physical switch on older systems.- Intern |
+| al magnetic switch on newer portable systems.- Set func |
+| tionality in the BIOS or utility.# Wireless control:# C |
+| ontrol your wireless signal:- Airplane mode, secure are |
+| as.- Look for a status light.# Physical switch# Functio |
+| n key# May include 802.11, Bluetooth, and cellular:- Lo |
+| ok for the symbol or status light.# Volume settings:# A |
+| nother function key:- May be standalone key.- Often inc |
+| ludes a mute option.# Physical dial or button:- May see |
+|  visual feedback.# Screen brightness:# Control the back |
+| light:- Secondary function keys.# More light, more powe |
+| r:- conserve your battery.# Keyboard backlight:# An opt |
+| ion on many laptops:- See in the dark.# Secondary funct |
+| ion control:- Intensity.- Duration.- Disable.# Touch pa |
+| d:# Enable and disable:- Avoid inadvertent mouse clicks |
+|  and movements.# Screen orientation:# Rotate the screen |
+| :- Useful on rotating tablet/ laptops.- Landscape to po |
+| rtrait.# Fn key or hotkey:- Different across manufactur |
+| ers.# Media options:# Control audio and video from your |
+|  keyboard:- No mouse clicking.# Play, stop, rewind, fas |
+| t forward:- Mute, volume.# GPS:# Listen for GPS singals |
+| :- Disable the radio.# May also be associated with airp |
+| lane mode or other wireless settings# Docking stations: |
+| # Docking station:- Use external keyboard and mouse.- E |
+| xtend existing laptop interfaces.- Add additional funct |
+| ionality.- Desktop adapter cards.- Avoid cable issues.# |
+|  Port replicator:- Similar to a docking station.- Does  |
+| not have an expansion card option.# Physical laptop loc |
+| ks:# Keep your laptop form walking away:- The bad guys  |
+| are good at this.# Laptops include metal-reinforced loc |
+| king slots:- Connect to the lock.# Connect to a solid o |
+| bject:- Nothing moves.# Rotating/removable screens:# Co |
+| mbine a laptop keyboatd with a tablet screen# Presentat |
+| ion display# May include a stylus for input<>?;=@9[\]^_ |
+| {}|~+$%&*`                                              |
++---------------------------------------------------------+
+|                    Characters Count                     |
++---------------------------------------------------------+
+| [a]: 383                                                |
+| [b]: 78                                                 |
+| [c]: 187                                                |
+| [d]: 186                                                |
+| [e]: 543                                                |
+| [f]: 83                                                 |
+| [g]: 104                                                |
+| [h]: 133                                                |
+| [i]: 327                                                |
+| [j]: 3                                                  |
+| [k]: 48                                                 |
+| [l]: 264                                                |
+| [m]: 95                                                 |
+| [n]: 305                                                |
+| [o]: 388                                                |
+| [p]: 157                                                |
+| [q]: 7                                                  |
+| [r]: 297                                                |
+| [s]: 259                                                |
+| [t]: 412                                                |
+| [u]: 124                                                |
+| [v]: 58                                                 |
+| [w]: 40                                                 |
+| [x]: 12                                                 |
+| [y]: 104                                                |
+| [z]: 3                                                  |
++---------------------------------------------------------+
+| [A]: 18                                                 |
+| [B]: 15                                                 |
+| [C]: 39                                                 |
+| [D]: 51                                                 |
+| [E]: 15                                                 |
+| [F]: 13                                                 |
+| [G]: 3                                                  |
+| [H]: 3                                                  |
+| [I]: 15                                                 |
+| [K]: 2                                                  |
+| [L]: 48                                                 |
+| [M]: 32                                                 |
+| [N]: 13                                                 |
+| [O]: 22                                                 |
+| [P]: 14                                                 |
+| [R]: 18                                                 |
+| [S]: 39                                                 |
+| [T]: 12                                                 |
+| [U]: 12                                                 |
+| [V]: 8                                                  |
+| [W]: 5                                                  |
++---------------------------------------------------------+
+| [0]: 3                                                  |
+| [1]: 9                                                  |
+| [2]: 5                                                  |
+| [3]: 1                                                  |
+| [5]: 1                                                  |
+| [8]: 2                                                  |
+| [9]: 1                                                  |
++---------------------------------------------------------+
+| [ ]: 935                                                |
+| [!]: 2                                                  |
+| ["]: 6                                                  |
+| [#]: 138                                                |
+| [$]: 1                                                  |
+| [%]: 1                                                  |
+| [&]: 1                                                  |
+| [']: 2                                                  |
+| [(]: 11                                                 |
+| [)]: 11                                                 |
+| [*]: 1                                                  |
+| [+]: 1                                                  |
+| [,]: 20                                                 |
+| [-]: 146                                                |
+| [.]: 124                                                |
+| [/]: 9                                                  |
++---------------------------------------------------------+
+| [:]: 111                                                |
+| [;]: 1                                                  |
+| [<]: 1                                                  |
+| [=]: 1                                                  |
+| [>]: 1                                                  |
+| [?]: 1                                                  |
+| [@]: 1                                                  |
++---------------------------------------------------------+
+| [[]: 1                                                  |
+| [\]: 1                                                  |
+| []]: 1                                                  |
+| [^]: 1                                                  |
+| [_]: 1                                                  |
+| [`]: 1                                                  |
++---------------------------------------------------------+
+| [{]: 1                                                  |
+| [|]: 1                                                  |
+| [}]: 1                                                  |
+| [~]: 1                                                  |
++---------------------------------------------------------+

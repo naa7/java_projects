@@ -1,0 +1,24 @@
+Sam 143.33
+Julie 193.75
+Fred 99.0
+Pablo 185.67
+Jim 225.0
+Frank 237.0
+
+Frank 237.0
+Fred 99.0
+Jim 225.0
+Julie 193.75
+Pablo 185.67
+Sam 143.33
+
+Frank 237.0
+Jim 225.0
+Julie 193.75
+Pablo 185.67
+Sam 143.33
+Fred 99.0
+
+Sam Found
+Roberta Not Found
+
